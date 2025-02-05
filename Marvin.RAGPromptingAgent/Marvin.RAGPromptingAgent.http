@@ -1,0 +1,6 @@
+@Marvin.RAGPromptingAgent_HostAddress = http://localhost:5249
+
+GET {{Marvin.RAGPromptingAgent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
